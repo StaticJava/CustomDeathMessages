@@ -1,0 +1,7 @@
+# CustomDeathMessages Config - coded by StaticJava. Color codes are allowed. The player/mob variables are in percent signs.
+
+playerKilledPlayer: &a%playerWhoKilled% killed &b%playerWhoDied%.
+
+playerKilledMob: &a%playerWhoKilled% killed &b%mob%.
+
+mobKilledPlayer: &a%mob% killed %playerWhoDied%.

@@ -1,0 +1,12 @@
+name: CustomDeathMessages
+main: me.staticjava.CustomDeathMessages
+version: 1.0
+description: Customize death messages that occurs when players die.
+
+commands:
+  vdeathmsg:
+    description: Changes the custom death message.
+
+permissions:
+  customdeathmessages.change:
+    description: Allows user to customize the death message.
